@@ -1,0 +1,38 @@
+.main{
+  background: #fafafa;
+  margin-left: auto;
+  margin-top: 100px;
+  margin-right: auto;
+  width: 990px;
+  height: 660px;
+  .reserveContent{
+    .leftReserve {
+      overflow-x: hidden;
+        overflow-y: hidden;
+        float: left;
+        position: relative;
+        min-height: 660px;
+        max-height: 660px;
+        padding: 20px;
+        border-right: 1px solid #ecedf2;
+        background: #f8f9fa;
+    }
+    .rightReserve{
+      float: left;
+      position: relative;
+      width: 269px;
+      height: auto;
+      min-height: 660px;
+      max-height: 660px;
+      margin-left: -1px;
+      padding: 50px 30px 50px 29px;
+      border-left: 1px solid #ecedf2;
+      box-sizing: border-box;
+      background: #fff;
+
+        }
+  }
+}
+div {
+  display: block;
+}

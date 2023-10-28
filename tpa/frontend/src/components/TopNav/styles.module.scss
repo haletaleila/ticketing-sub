@@ -1,0 +1,98 @@
+@media (min-height: 800px) {
+.TopNav {
+  font-size: .9rem;
+  height: 100%;
+  line-height: 1.5;
+  margin: 0;
+  background-color: #1a1d21;
+    .item{
+      background-color: #1a1d21;
+      color: #eceeef;
+      display: flex;
+      font-size: 1rem;
+      padding: 1rem 5rem;
+      position: relative;
+      margin: 0 auto;
+      line-height: 1.5;
+      .logo {    
+        height: 3.5rem;
+        cursor: pointer;
+      }
+      a{
+        color: #FF6A11;
+      text-decoration: none;  /* 밑줄 제거 (원하는 경우) */
+      }
+      .menu{
+        color: #FF6A11;
+        list-style: none outside none !important;
+        width: 100%;
+        line-height: 4rem;
+        height: 4rem;
+        display: flex;
+        justify-content: end;
+        .menuli{    float: left;
+          font-size: 1.1rem;
+          padding: 0;
+          margin-left: 2rem;
+          cursor: pointer;
+          text-decoration: none;
+          margin-right: 2rem;
+          transition: color 0.5s;
+        }
+        .menuli:hover{
+          color:#eceeef;
+        }
+      }
+    }
+   
+  }
+}
+@media (max-height: 800px) {
+  .TopNav {
+    font-size: .9rem;
+    height: 100%;
+    line-height: 1.5;
+    margin: 0;
+    background-color: #1a1d21;
+      .item{
+        background-color: #1a1d21;
+        color: #eceeef;
+        display: flex;
+        font-size: 1rem;
+        padding: 1rem 5rem;
+        position: relative;
+        margin: 0 auto;
+        line-height: 1.5;
+        .logo {    
+          height: 3rem;
+          cursor: pointer;
+        }
+        a{
+          color: #FF6A11;
+        text-decoration: none;  /* 밑줄 제거 (원하는 경우) */
+        }
+        .menu{
+          color: #FF6A11;
+          list-style: none outside none !important;
+          width: 100%;
+          line-height: 3rem;
+          height: 3rem;
+          display: flex;
+          justify-content: end;
+          .menuli{    float: left;
+            font-size: 1.1rem;
+            padding: 0;
+            margin-left: 2rem;
+            cursor: pointer;
+            text-decoration: none;
+            margin-right: 2rem;
+            transition: color 0.5s;
+          }
+          .menuli:hover{
+            color:#eceeef;
+          }
+        }
+      }
+     
+    }
+  }

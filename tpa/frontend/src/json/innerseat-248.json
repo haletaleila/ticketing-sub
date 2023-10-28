@@ -1,0 +1,773 @@
+[
+  {
+    "sectionName": "48구역",
+    "rows": [
+      {
+        "rowNumber": "1열",
+        "seats": [
+          { "type": "B", "isAvailable": false, "position": 1, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 2, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 3, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 4, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 5, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 6, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 7, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 8, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 9, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 10, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 11, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 12, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 13, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 14, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 15, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 16, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 17, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 18, "grade": "SR" },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 19,
+            "grade": "VIP",
+            "color": "rgb(124, 104, 238)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 20,
+            "grade": "VIP",
+            "color": "rgb(124, 104, 238)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 21,
+            "grade": "VIP",
+            "color": "rgb(124, 104, 238)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 22,
+            "grade": "VIP",
+            "color": "rgb(124, 104, 238)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 23,
+            "grade": "VIP",
+            "color": "rgb(124, 104, 238)"
+          }
+        ],
+        "breakAfter": 0
+      },
+      {
+        "rowNumber": "2열",
+        "seats": [
+          { "type": "B", "isAvailable": false, "position": 1, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 2, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 3, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 4, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 5, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 6, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 7, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 8, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 9, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 10, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 11, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 12, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 13, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 14, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 15, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 16, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 17, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 18, "grade": "SR" },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 19,
+            "grade": "VIP",
+            "color": "rgb(124, 104, 238)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 20,
+            "grade": "VIP",
+            "color": "rgb(124, 104, 238)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 21,
+            "grade": "VIP",
+            "color": "rgb(124, 104, 238)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 22,
+            "grade": "VIP",
+            "color": "rgb(124, 104, 238)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 23,
+            "grade": "VIP",
+            "color": "rgb(124, 104, 238)"
+          }
+        ],
+        "breakAfter": 0
+      },
+      {
+        "rowNumber": "3열",
+        "seats": [
+          { "type": "B", "isAvailable": false, "position": 1, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 2, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 3, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 4, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 5, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 6, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 7, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 8, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 9, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 10, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 11, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 12, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 13, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 14, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 15, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 16, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 17, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 18, "grade": "SR" },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 19,
+            "grade": "VIP",
+            "color": "rgb(124, 104, 238)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 20,
+            "grade": "VIP",
+            "color": "rgb(124, 104, 238)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 21,
+            "grade": "VIP",
+            "color": "rgb(124, 104, 238)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 22,
+            "grade": "VIP",
+            "color": "rgb(124, 104, 238)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 23,
+            "grade": "VIP",
+            "color": "rgb(124, 104, 238)"
+          }
+        ],
+        "breakAfter": 0
+      },
+      {
+        "rowNumber": "4열",
+        "seats": [
+          { "type": "B", "isAvailable": false, "position": 1, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 2, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 3, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 4, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 5, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 6, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 7, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 8, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 9, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 10, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 11, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 12, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 13, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 14, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 15, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 16, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 17, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 18, "grade": "SR" },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 19,
+            "grade": "VIP",
+            "color": "rgb(124, 104, 238)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 20,
+            "grade": "VIP",
+            "color": "rgb(124, 104, 238)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 21,
+            "grade": "VIP",
+            "color": "rgb(124, 104, 238)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 22,
+            "grade": "VIP",
+            "color": "rgb(124, 104, 238)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 23,
+            "grade": "VIP",
+            "color": "rgb(124, 104, 238)"
+          }
+        ],
+        "breakAfter": 3
+      },
+      {
+        "rowNumber": "5열",
+        "seats": [
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 1,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 2,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 3,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 4,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 5,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 6,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 7,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 8,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          { "type": "B", "isAvailable": false, "position": 10, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 10, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 11, "grade": "SR" },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 12,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 13,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 14,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 15,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 16,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 17,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 18,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 19,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 20,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          }
+        ],
+        "breakAfter": 0
+      },
+      {
+        "rowNumber": "6열",
+        "seats": [
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 1,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 2,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 3,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 4,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 5,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 6,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 7,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 8,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 9,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          { "type": "B", "isAvailable": false, "position": 10, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 11, "grade": "SR" },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 12,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 13,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 14,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 15,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 16,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 17,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 18,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 19,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 20,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          }
+        ],
+        "breakAfter": 0
+      },
+      {
+        "rowNumber": "7열",
+        "seats": [
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 1,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 2,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 3,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 4,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 5,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 6,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 7,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 8,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 9,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          { "type": "B", "isAvailable": false, "position": 10, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 11, "grade": "SR" },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 12,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 13,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 14,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 15,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 16,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 17,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 18,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 19,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 20,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          }
+        ],
+        "breakAfter": 0
+      },
+      {
+        "rowNumber": "8열",
+        "seats": [
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 1,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 2,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 3,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 4,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 5,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 6,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 7,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 8,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 9,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          { "type": "B", "isAvailable": false, "position": 10, "grade": "SR" },
+          { "type": "B", "isAvailable": false, "position": 11, "grade": "SR" },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 12,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 13,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 14,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 15,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 16,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 17,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 18,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 19,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          },
+          {
+            "type": "R",
+            "isAvailable": true,
+            "position": 20,
+            "grade": "SR",
+            "color": "rgb(28, 168, 20)"
+          }
+        ],
+        "breakAfter": 0
+      }
+    ]
+  }
+]

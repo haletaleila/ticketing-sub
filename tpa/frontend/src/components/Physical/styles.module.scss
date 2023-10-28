@@ -1,0 +1,77 @@
+.card{
+  margin-top: 5rem;
+  margin-bottom: 10rem;
+  word-break: keep-all;
+    font-style: normal;
+    display: block;
+  .name{
+    padding-bottom: 14px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 980px;
+  }
+  .images{
+    position: relative;
+    overflow: hidden;
+    padding-bottom: 26px;
+    margin-top: 25px;
+    width: 100%;
+    vertical-align: top;
+    display: inline-flex;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    .itemView{
+      cursor: pointer;
+      display: flex;
+      margin-left: 40px;
+      margin-right: 40px;
+      transform: translateX(calc(max(1024px, 100vw)/2 - 490px));
+     
+    }
+    
+    .contentWithImg{
+      flex-direction: row;
+      justify-content: center;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      overflow: hidden;
+      border : .1px solid #eeeeee;
+      background-color: #fff;
+      border-radius: 18px;
+      white-space: normal;
+      box-shadow: 2px 4px 12px rgba(0,0,0,.08);
+      transition: transform 0.3s ease-out, box-shadow 0.3s ease-out; 
+      transform-style: preserve-3d; /* 3D 변환 스타일 활성화 */
+    }
+    .contentWithImg:hover {
+      transform: scale(1.05); /* 5% 확대 */
+      box-shadow: 4px 6px 15px rgba(0,0,0,0.2); /* 그림자 효과 강화 */
+      .contentInfo{
+        color: #FF6A11;
+        text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
+      }
+    }
+    .contentInfo{
+      position: absolute;
+      left: 0;
+      padding: 30px;
+      width: 100%;
+      bottom : 10px;
+      font-size: 20px;
+      color : black;
+      transition: color 0.5s;
+      .title{
+        display: block;
+        text-align: center;
+        margin-bottom: .4em;
+        line-height: 1.41667;
+        letter-spacing: 0;
+        text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+      }
+    }
+  }
+}
+.main{
+  min-height: 70vh;
+}

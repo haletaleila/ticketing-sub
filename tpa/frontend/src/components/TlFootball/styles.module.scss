@@ -1,0 +1,443 @@
+.main{
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: middle;
+  width: 990px;
+  height: 75vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+.loading{
+  background-image: url(../../images/loading.gif);
+  z-index: 999;
+  position: absolute;
+  width: 990px;
+  height: 665px;
+  background-size: cover; /* 이미지가 컨테이너 크기에 맞게 조절되면서 비율 유지 */
+  background-repeat: no-repeat; /* 이미지 반복 방지 */
+  background-position: center; /* 이미지 중앙 정렬 */
+  background-size: cover; 
+}
+.preparing{
+  background-image: url(../../images/preparing.gif);
+  z-index: 999;
+  cursor: pointer;
+  position: absolute;
+  width: 990px;
+  height: 665px;
+  background-size: cover; /* 이미지가 컨테이너 크기에 맞게 조절되면서 비율 유지 */
+  background-repeat: no-repeat; /* 이미지 반복 방지 */
+  background-position: center; /* 이미지 중앙 정렬 */
+  background-size: cover; 
+}
+  .reserveContent{
+    .leftReserve {
+      overflow-x: hidden;
+        overflow-y: hidden;
+        float: left;
+        position: relative;
+        min-height: 660px;
+        max-height: 660px;
+        padding: 20px;
+        background-color: #1a1d21;
+    }
+    .rightReserve{
+      float: left;
+      position: relative;
+      height: auto;
+      min-height: 604px;
+      /* max-height: 660px; */
+      margin-top: 39px;
+      width: 250px;
+      /* margin-left: -1px; */
+      padding: 50px 30px 30px 29px;
+      border-left: 1px solid #ecedf2;
+      box-sizing: border-box;
+      background: #fff;
+      .stopwatchTimer {
+        position: relative;
+        margin-top: 50px;
+        display: grid;
+        padding: 9px 0;
+        border: 1px solid #ecedf2;
+        .time{
+          text-align: center;
+          color: black;
+          font-size: 21px;
+        }
+      }
+      .next{
+        letter-spacing: -1px;
+        color: #242428;
+        position: absolute;
+        bottom: 50px;
+        font-size: 0;
+        margin-top: 1rem;
+        left: 45%;
+        .finishBtn{
+          cursor: pointer;
+          width: 101px;
+          font-weight: 500;
+          margin-left: 6px;
+          padding: 13px 0;
+          font-size: 18px;
+          font-weight: 500;
+          line-height: 28px;
+          text-align: center;
+          border: 1px solid #dcdde1;
+          background: #fff;
+          color: #242428;
+          display: inline-block;
+          overflow: hidden;
+          border-radius: 6px;
+          box-sizing: border-box;
+          vertical-align: middle;
+        }
+      }
+      .artbx{
+        position: relative;
+        margin-top: 16px;
+        display: grid;
+      }
+      .artbx:after{
+        display: block;
+        clear: both;
+        content: '';
+      }
+      .bxTit{
+        margin-top: 4px;
+        float: left;
+        margin-bottom: 8px;
+        font-size: 16px;
+      }
+      .bxTit:after{
+        display: block;
+        clear: both;
+        content: '';
+      }
+      .seatList{
+        overflow-x: hidden;
+        overflow-y: auto;
+        position: relative;
+        padding: 9px 0;
+        border: 1px solid #ecedf2;
+        height : 258px;
+        list-style: none;
+        li{
+          border: 0;
+          vertical-align: top;
+          position: relative;
+          .gradeSelect{
+            display: block;
+            overflow: hidden;
+            position: relative;
+            padding: 5px 10px;
+            font-size: 0;
+            text-decoration: none;
+            cursor: pointer;
+            color: black;
+          }
+          .gradeSelect:hover{
+            background: #f8f9fa;
+          }
+          .btnArea{
+            background: #f8f9fa;
+            padding: 0 10px 12px 9px;
+          }
+          .cellBx{
+            display: table;
+            width: 100%;
+            table-layout: fixed;
+            .cell{
+              display: table-cell;
+              padding: 0 3px 0 0;
+              font-size: 13px;
+              font-weight: 400;
+              letter-spacing: 0;
+              .bntFull{
+                padding: 4px 8px;
+                font-weight: 400;
+                font-size: 13px;
+                line-height: 18px;
+                width: 100%;
+                background: #242428;
+                border: 1px solid #242428;
+                color: #fff;
+                display: inline-block;
+                overflow: hidden;
+                border-radius: 6px;
+                box-sizing: border-box;
+                text-decoration: none;
+                text-align: center;
+              }
+            }
+          }
+          .seatZone{
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            .liZone{
+              position: relative;
+              border: 0;
+              vertical-align: top;
+              margin: 0;
+              padding: 0;
+              .liBlock{
+                display: block;
+                overflow: hidden;
+                position: relative;
+                padding: 5px 10px;
+                font-size: 0;
+                padding-left: 27px;
+                cursor: pointer;
+                text-decoration: none;
+                color : black;
+                .seatGrade{
+                  font-size: 13px;
+                  font-weight: 400;
+                  letter-spacing: 0;
+                  overflow: hidden;
+                  font-size: 13px;
+                  line-height: 14px;
+                  vertical-align: middle;
+                }
+              }
+            }
+            .liZone:hover{
+              background: #f8f9fa;
+            }
+          }
+          .seatColor{
+            float: left;
+            width: 12px;
+            height: 12px;
+            margin-right: 4px;
+            font-size: 13px;
+            font-weight: 400;
+            letter-spacing: 0;
+          }
+          .seatDetailInfo{
+            overflow: hidden;
+            font-size: 13px;
+            line-height: 14px;
+            vertical-align: middle;
+            .seatGrade{
+              font-size: 13px;
+              font-weight: 400;
+              letter-spacing: 0;
+            }
+          }
+        }
+      }
+    }
+    .popupLayer{
+      z-index: 210;
+      display: block;
+      /* margin-top: -113px; */
+      top: 45%;
+      left: 30%;
+      /* margin-left: -307px; */
+      width: 345px;
+      padding: 0 0 6px;
+      box-sizing: border-box;
+      position: absolute;
+      z-index: 10;
+      border: 1px solid #242428;
+      background: #fff;
+      border-radius: 2px;
+      .areaTop{
+        padding: 0 16px;
+        .close{
+          position: absolute;
+          top: 18px;
+          right: 20px;
+          width: 16px;
+          height: 16px;
+          background-image: url(../../images/old-svg.svg);
+          background-size: 660px 629px;
+          background-position: -576px -581px;
+          background-repeat: no-repeat;
+        }
+        .title{
+          margin: 0;
+          padding: 14px 0;
+          font-size: 14px;
+          font-weight: 700;
+          color: #242428;
+          text-align: center;
+          line-height: 22px;
+          letter-spacing: -0.03em;
+          display: block !important;
+          padding: 9px 0;
+          font-size: 14px;
+          letter-spacing: -1px;
+          line-height: 22px;
+          border-bottom: 1px solid #ecedf2;
+        }
+      }
+      .areaBottom{
+        overflow-x: hidden;
+        overflow-y: auto;
+        max-height: 189px;
+        padding-left: 17px;
+        .seatForm{
+          position: relative;
+          padding: 0 8px 0 24px;
+        }
+        .seatName{
+          overflow: hidden;
+          min-height: 36px;
+          font-size: 14px;
+          color: #242428;
+          font-weight: 700;
+          letter-spacing: 0;
+          .seatColor{
+            position: absolute;
+            top: 6px;
+            left: 3px;
+            margin-top: 0;
+            display: inline-block;
+            width: 12px;
+            height: 12px;
+            margin-top: 5px;
+            margin-right: 9px;
+            vertical-align: top;
+          }
+          .seatGrade{
+            display: block;
+            
+            margin-top: 7px;
+            line-height: 22px;
+          }
+        }
+        .btnArea{
+          background: #f8f9fa;
+          padding: 0 10px 12px 9px;
+        }
+        .cellBx{
+          display: table;
+          width: 100%;
+          table-layout: fixed;
+          .cell{
+            display: table-cell;
+            padding: 0 3px 0 0;
+            font-size: 13px;
+            font-weight: 400;
+            letter-spacing: 0;
+            .bntFull{
+              padding: 4px 8px;
+              font-weight: 400;
+              font-size: 13px;
+              line-height: 18px;
+              width: 100%;
+              background: #242428;
+              border: 1px solid #242428;
+              color: #fff;
+              display: inline-block;
+              overflow: hidden;
+              border-radius: 6px;
+              box-sizing: border-box;
+              text-decoration: none;
+              text-align: center;
+            }
+          }
+        }
+      }
+    }
+    .mainViewTop{
+      position: relative;
+      width: 680px;
+      height: 604px;
+      .selectSeatInfo{
+        z-index: 20;
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        .scrollSeat{
+          overflow-x: hidden;
+          overflow-y: auto;
+          max-height: 77px;
+          border: 1px solid #62676c;
+          display: block;
+          .lst{
+            position: relative;
+            z-index: 1;
+            overflow: hidden;
+            padding: 1px 14px 6px 9px;
+            list-style: none;
+            .seat{
+              float: left;
+              position: relative;
+              margin: 5px 0 0 5px;
+              padding: 4px 4px 5px 5px;
+              background: #878d95;
+              color: #fff;
+              letter-spacing: 0;
+              border: 0;
+              vertical-align: top;
+            }
+          }
+          .lst:before{
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            border: 1px solid #62676c;
+            background: #62676c;
+            opacity: .5;
+            filter: alpha(opacity=50);
+            content: '';
+          }
+        }
+      }
+    }
+    .mainView{
+      overflow: hidden;
+      width: 680px;
+      margin-top: 19px;
+      background: #62676c;
+    }
+    .seatOption{
+      position: absolute;
+      top: 15px;
+      right: 10px;
+      width: 40px;
+      z-index: 20;
+      
+      button{
+        display: block;
+        position: relative;
+        width: 40px;
+        height: 40px;
+        margin-top: 10px;
+        background-color: #878d95;
+        padding: 4px;
+        font-size: 0;
+        cursor: pointer;
+      }
+      button::after{
+        width: 32px;
+        height: 32px;
+        background-image: url(../../images/old-svg.svg);
+        background-size: 660px 629px;
+        background-position: -544px -527px;
+        background-repeat: no-repeat;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translateX(-50%) translateY(-50%);
+        content: '';
+        
+        font-size: 0;
+        cursor: pointer;
+      }
+    }
+  }
+  
+}
+div {
+  display: block;
+}

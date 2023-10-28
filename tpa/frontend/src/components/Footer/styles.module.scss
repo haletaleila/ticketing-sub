@@ -1,0 +1,70 @@
+
+
+  
+/* 데스크톱과 더 큰 뷰포트를 위한 스타일 */
+@media (min-height: 800px) {
+  .Footer {
+    line-height: 1.5;
+    bottom: 0%;
+    width: 100%;
+    position: fixed;
+    margin: 0;
+    background-color: #FF6A11;
+      .description{
+        color: #ebf3f7;
+        display: block;
+        font-size: 1rem;
+        padding: 1rem 5rem;
+        position: relative;
+        margin: 0 auto;
+        line-height: 1.5;
+        .name{
+          font-weight: 600;
+          font-size: 1.5rem;
+        }
+        .explain{
+          color: #ebf3f7;
+          display: block;
+          font-size: 0.5rem;
+          position: relative;
+          margin: 0 auto;
+          line-height: 1.5;
+        }
+      }
+     
+    }
+}
+
+@media (max-height: 800px) {
+  .Footer {
+    line-height: 1.5;
+    bottom: 0%;
+    width: 100%;
+    position: fixed;
+    margin: 0;
+    background-color: #FF6A11;
+      .description{
+        color: #ebf3f7;
+        display: block;
+        font-size: 0.7rem;
+        padding: 0.5rem 2rem;
+        position: relative;
+        margin: 0 auto;
+        line-height: 1.2rem;
+        .name{
+          font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.5rem;
+        }
+        .explain{
+          color: #ebf3f7;
+          display: block;
+          font-size: 0.1rem;
+          position: relative;
+          margin: 0 auto;
+          line-height: 0.5;
+        }
+      }
+     
+    }
+}

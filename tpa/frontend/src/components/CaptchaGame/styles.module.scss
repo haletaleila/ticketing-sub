@@ -1,0 +1,116 @@
+.main{
+  margin-left: auto;
+  margin-right: auto;
+  width: 990px;
+  height: 60vh;
+  background-color: #231d1d;
+  display: flex;
+  margin-top: 10vh;
+  margin-bottom: 10vh;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.CaptchaContainer{
+  display: flex;
+  justify-content: center; /* 가로 축에서 중앙 정렬 */
+  align-items: center; /* 세로 축에서 중앙 정렬 */
+  position: relative;
+  width: 400px;
+  margin-left: auto;
+  margin-right:auto;
+  height: 150px;
+  -webkit-user-select: none;  /* Chrome, Safari, Opera */
+  -moz-user-select: none;     /* Firefox */
+  -ms-user-select: none;      /* Internet Explorer/Edge */
+  user-select: none; 
+}
+.Captcha{
+  font-size : 20px;
+}
+#overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1; /* 낮은 z-index */
+}
+.inputContainer{
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  .captchaInput{
+    width: 100%;
+    height: 50px;
+    border-radius: 3px;
+    border: 0.5px solid #6f6f6f;
+    padding: 0 25px;
+    outline: none;
+    font-size: 22px;
+    font-weight: 500;
+  }
+}
+.bottom{
+  text-align: center;
+  margin-top: 40px;
+  font-size : 20px;
+  color: aliceblue;
+}
+.top{
+  text-align: center;
+  margin-bottom: 30px;
+  color: aliceblue;
+  .explain1{
+      font-size: 18px;
+      margin-bottom: 11px;
+  }
+  .explain2{
+    font-size: 12px;
+  }
+  .stopwatchTimer {
+    position: relative;
+    display: grid;
+    padding: 9px 0;
+    .time{
+      text-align: center;
+      font-size: 30px;
+    }
+  }
+}
+.gameBoard{
+  width: 500px;
+  position: relative;
+  
+  .reload{
+    position: absolute;
+    top: 5px;
+    right: 60px;
+    width: 40px;
+    z-index: 20;
+    button{
+      display: block;
+      position: relative;
+      width: 40px;
+      height: 40px;
+      margin-top: 10px;   
+      background-color: white;
+      padding: 4px;
+      font-size: 0;
+      cursor: pointer;
+    }
+    button::after{
+      width: 32px;
+      height: 32px;
+      background-size: 20px 20px;
+      background-image: url(../../images/reload.png);
+      background-repeat: no-repeat;
+      position: absolute;
+      top: 50%;
+      transform: translateX(-50%) translateY(-50%);
+      background-position: center;
+      content: "";
+      font-size: 0;
+      cursor: pointer;
+    }
+  }
+}
