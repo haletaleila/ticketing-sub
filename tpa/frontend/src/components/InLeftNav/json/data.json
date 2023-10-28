@@ -1,0 +1,1249 @@
+{
+  "musical": [
+    {
+      "id": "1",
+      "name": "The Phantom of the Opera",
+      "date": "2023-11-10",
+      "location": "Seoul Opera House"
+    },
+    {
+      "id": "2",
+      "name": "Les Misérables",
+      "date": "2023-12-15",
+      "location": "Busan Arts Center"
+    }
+  ],
+  "concert": [
+    {
+      "id": "1",
+      "name": "임영웅 콘서트 IM HERO TOUR 2023",
+      "date": "2023-11-20",
+      "location": "서울",
+      "selector": "2",
+      "getData": {
+        "imgsrc": "https://ticketimage.interpark.com/TMGSNAS/TMGS/MiniMapHtml/23/img/23001192.gif",
+        "outerSelect": [
+          {
+            "id": "011",
+            "shape": "poly",
+            "coords": "227,226,252,204,295,192,292,203,286,230,275,257"
+          },
+          {
+            "id": "010",
+            "shape": "poly",
+            "coords": "208,256,225,233,248,246,270,260,243,305,199,278"
+          },
+          {
+            "id": "009",
+            "shape": "poly",
+            "coords": "194,284,248,313,217,323,207,346,196,339,189,311"
+          },
+          {
+            "id": "248",
+            "shape": "poly",
+            "coords": "282,137,268,139,255,83,276,80,299,80,298,139"
+          }
+        ],
+        "innerSelect": [
+          {
+            "sectionName": "48구역",
+            "sectionRealName": "248",
+            "rows": [
+              {
+                "rowNumber": "1열",
+                "seats": [
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 1,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 2,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 3,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 4,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 5,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 6,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 7,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 8,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 9,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 10,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 11,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 12,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 13,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 14,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 15,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 16,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 17,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 18,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 19,
+                    "grade": "VIP",
+                    "color": "rgb(124, 104, 238)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 20,
+                    "grade": "VIP",
+                    "color": "rgb(124, 104, 238)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 21,
+                    "grade": "VIP",
+                    "color": "rgb(124, 104, 238)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 22,
+                    "grade": "VIP",
+                    "color": "rgb(124, 104, 238)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 23,
+                    "grade": "VIP",
+                    "color": "rgb(124, 104, 238)"
+                  }
+                ],
+                "breakAfter": 0
+              },
+              {
+                "rowNumber": "2열",
+                "seats": [
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 1,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 2,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 3,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 4,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 5,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 6,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 7,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 8,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 9,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 10,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 11,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 12,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 13,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 14,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 15,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 16,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 17,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 18,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 19,
+                    "grade": "VIP",
+                    "color": "rgb(124, 104, 238)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 20,
+                    "grade": "VIP",
+                    "color": "rgb(124, 104, 238)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 21,
+                    "grade": "VIP",
+                    "color": "rgb(124, 104, 238)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 22,
+                    "grade": "VIP",
+                    "color": "rgb(124, 104, 238)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 23,
+                    "grade": "VIP",
+                    "color": "rgb(124, 104, 238)"
+                  }
+                ],
+                "breakAfter": 0
+              },
+              {
+                "rowNumber": "3열",
+                "seats": [
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 1,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 2,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 3,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 4,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 5,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 6,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 7,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 8,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 9,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 10,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 11,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 12,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 13,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 14,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 15,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 16,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 17,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 18,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 19,
+                    "grade": "VIP",
+                    "color": "rgb(124, 104, 238)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 20,
+                    "grade": "VIP",
+                    "color": "rgb(124, 104, 238)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 21,
+                    "grade": "VIP",
+                    "color": "rgb(124, 104, 238)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 22,
+                    "grade": "VIP",
+                    "color": "rgb(124, 104, 238)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 23,
+                    "grade": "VIP",
+                    "color": "rgb(124, 104, 238)"
+                  }
+                ],
+                "breakAfter": 0
+              },
+              {
+                "rowNumber": "4열",
+                "seats": [
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 1,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 2,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 3,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 4,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 5,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 6,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 7,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 8,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 9,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 10,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 11,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 12,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 13,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 14,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 15,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 16,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 17,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 18,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 19,
+                    "grade": "VIP",
+                    "color": "rgb(124, 104, 238)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 20,
+                    "grade": "VIP",
+                    "color": "rgb(124, 104, 238)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 21,
+                    "grade": "VIP",
+                    "color": "rgb(124, 104, 238)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 22,
+                    "grade": "VIP",
+                    "color": "rgb(124, 104, 238)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 23,
+                    "grade": "VIP",
+                    "color": "rgb(124, 104, 238)"
+                  }
+                ],
+                "breakAfter": 3
+              },
+              {
+                "rowNumber": "5열",
+                "seats": [
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 1,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 2,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 3,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 4,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 5,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 6,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 7,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 8,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 10,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 10,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 11,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 12,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 13,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 14,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 15,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 16,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 17,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 18,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 19,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 20,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  }
+                ],
+                "breakAfter": 0
+              },
+              {
+                "rowNumber": "6열",
+                "seats": [
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 1,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 2,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 3,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 4,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 5,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 6,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 7,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 8,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 9,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 10,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 11,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 12,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 13,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 14,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 15,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 16,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 17,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 18,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 19,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 20,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  }
+                ],
+                "breakAfter": 0
+              },
+              {
+                "rowNumber": "7열",
+                "seats": [
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 1,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 2,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 3,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 4,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 5,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 6,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 7,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 8,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 9,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 10,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 11,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 12,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 13,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 14,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 15,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 16,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 17,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 18,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 19,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 20,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  }
+                ],
+                "breakAfter": 0
+              },
+              {
+                "rowNumber": "8열",
+                "seats": [
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 1,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 2,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 3,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 4,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 5,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 6,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 7,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 8,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 9,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 10,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "B",
+                    "isAvailable": false,
+                    "position": 11,
+                    "grade": "SR"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 12,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 13,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 14,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 15,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 16,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 17,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 18,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 19,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  },
+                  {
+                    "type": "R",
+                    "isAvailable": true,
+                    "position": 20,
+                    "grade": "SR",
+                    "color": "rgb(28, 168, 20)"
+                  }
+                ],
+                "breakAfter": 0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "name": "Twice Concert",
+      "date": "2023-12-25",
+      "location": "Gocheok Sky Dome"
+    }
+  ],
+  "play": [
+    {
+      "id": "1",
+      "name": "Romeo and Juliet",
+      "date": "2023-11-30",
+      "location": "National Theater of Korea"
+    },
+    {
+      "id": "2",
+      "name": "Hamlet",
+      "date": "2023-12-20",
+      "location": "Daehangno Arts Theater"
+    }
+  ]
+}

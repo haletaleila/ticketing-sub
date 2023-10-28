@@ -12,7 +12,7 @@ import TopNav from "../TopNav";
 import Footer from "../Footer";
 import CaptchaGame from "../CaptchaGame";
 import Physical from "../Physical";
-import InConcert from "../InConcert";
+import InMain from "../InMain";
 
 const App = (props) => {
   const [windowDimensions, setWindowDimensions] = useState({
@@ -49,7 +49,7 @@ const App = (props) => {
             <Route path="/tlrandomgame" component={TrandomGame} key={3} />
             <Route path="/captcha" component={CaptchaGame} key={3} />
             <Route path="/tlfootball" component={TlFootball} key={4} />
-            <Route path="/inconcert" component={InConcert} key={5} />
+            <Route path="/inmain/:category" component={InMain} key={5} />
             <Route path="/" component={Main} key={6} exact />{" "}
             {/* 'exact' prop added to avoid conflicts */}
           </Switch>

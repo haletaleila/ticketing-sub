@@ -1,0 +1,78 @@
+.left-nav {
+  flex: 1;
+  /* additional styles */
+}
+.tableTbodyTrTd {
+  font-family: "굴림", "돋움", "Verdana", "Arial";
+  font-size: 2px;
+  color: #636363;
+}
+
+.tableTbodyTrTd2 {
+  font-family: "굴림", "돋움", "Verdana", "Arial";
+  font-size: 12px;
+  color: #636363;
+}
+
+.tmgsTable {
+  display: table;
+  border-collapse: separate;
+  box-sizing: border-box;
+  text-indent: initial;
+  white-space-collapse: collapse;
+  text-wrap: wrap;
+  line-height: normal;
+  font-weight: normal;
+  font-size: medium;
+  font-style: normal;
+  color: -internal-quirk-inherit;
+  text-align: start;
+  border-spacing: 2px;
+  border-color: gray;
+  font-variant: normal;
+}
+
+.divSeatBox {
+  border: 3px solid #ccc;
+  height: 100%;
+  font-family: "malgun gothic";
+  font-weight: bold;
+}
+
+.divBr {
+  height: 0.7rem;
+  content: "";
+  justify-content: flex-start;
+  display: flex;
+}
+
+.seatT {
+  background-color: white;
+  width: 60px;
+  height: 10px;
+  font-size: 8pt;
+  clear: left;
+  float: left;
+  padding: 0 10px 0 0;
+}
+
+.seatR {
+  background-color: whitesmoke;
+  cursor: pointer;
+  width: 10px;
+  height: 10px;
+  margin: 1px;
+  padding: 0 0 0 0;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.seatB {
+  background-color: white;
+  width: 10px;
+  height: 10px;
+  margin: 1px;
+  padding: 0 0 0 0;
+  display: inline-block;
+  vertical-align: middle;
+}
